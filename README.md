@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=AlinGeorgescu.AlinGeorgescu&style=flat-square&color=0088cc)
 
-I'm a Software Engineer 🤓, alumnus of ![University Politehnica of Bucharest 🎓](https://upb.ro/), currently enrolled in a Master's Degree. I'm a passionate developer and real-life problem solver. I'm currently developping Web Apps 🕸️ used by thousands of clients everyday.
+I'm a Software Engineer 🤓, alumnus of ![University Politehnica of Bucharest 🎓](https://upb.ro/), with a Master's Degree. I'm a passionate developer and real-life problem solver. I'm currently developping Web Apps 🕸️ used by thousands of clients everyday.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
